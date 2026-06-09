@@ -10,11 +10,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - Trees
 - Graphs
 - Recursion
-- Dynamic Programming
-- Searching & Sorting
-- Greedy Algorithms
-- Backtracking
-- 
+
 ## Goals
 - Solve DSA problems consistently.
 - Improve coding and analytical skills.
